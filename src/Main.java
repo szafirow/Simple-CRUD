@@ -5,6 +5,7 @@ public class Main {
 
 	public static void main(String[] args) throws SQLException, IOException {
 
+		System.out.println("ecipecie");
 		Employee emp = new Employee();
 
 		int check = Menu.show();
